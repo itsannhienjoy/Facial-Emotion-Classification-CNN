@@ -1,7 +1,6 @@
-# UOW-218-Project
-Classifying Facial Emotion using CNN
+# Classifying Facial Emotion using CNN
 
-## How to run
+## Instruction
 
 - Install required libraries as shown in requirements.txt
 
